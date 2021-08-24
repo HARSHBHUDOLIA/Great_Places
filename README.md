@@ -1,6 +1,7 @@
 # great_places
 
 A new Flutter project.
+I have not added any permission needed for the dependencies(Image Picker, Sqflite, location or any other that might need it.
 
 ## Getting Started
 
